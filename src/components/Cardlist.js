@@ -2,9 +2,6 @@ import React from 'react';
 import Card from './Card';
 
 const Cardlist = ({robots}) => {
-	// if (true) {
-	// 	throw new Error('Jia Ba Liao');
-	// }
 	return (
 	    <div>
 	    {
