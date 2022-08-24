@@ -21,7 +21,7 @@
       "purpose": "any"
     }
   ],
-  "start_url": "https://[gitHubId].github.io/",
+  "start_url": "https://github.com/blinky1994/robofriends",
   "scope": "/",
   "display": "standalone",
   "theme_color": "#000000",
